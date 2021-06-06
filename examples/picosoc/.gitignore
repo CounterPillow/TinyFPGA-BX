@@ -3,6 +3,8 @@
 /firmware.elf
 /firmware.hex
 /firmware.bin
+/firmware.map
+/hardware.json
 /hardware.asc
 /hardware.bin
 /hardware.blif
